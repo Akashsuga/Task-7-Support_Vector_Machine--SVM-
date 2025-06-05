@@ -12,6 +12,7 @@ This project uses Support Vector Machines (SVM) to classify tumors in the Breast
 - **breast-cancer.csv** — Original dataset
 - **task_7_svm.py** — Python script for Support Vector Machine (SVM)
 - **task 7.pdf** — Given task
+- **Visual Outputs** — Folder containing all visual plots
 - **README.md** — This documentation
 
 ---
