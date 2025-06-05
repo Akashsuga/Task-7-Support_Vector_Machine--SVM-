@@ -7,6 +7,15 @@ This project uses Support Vector Machines (SVM) to classify tumors in the Breast
 
 ---
 
+## Repository Structure
+
+- **breast-cancer.csv** — Original dataset
+- **task_7_svm.py** — Python script for Support Vector Machine (SVM)
+- **task 7.pdf** — Given task
+- **README.md** — This documentation
+
+---
+
 ## Dataset
 
 - Filename: breast-cancer.csv
@@ -92,7 +101,7 @@ Bar plot of model accuracy across cross-validation folds.![CV Accuracy per fold]
 
 ## Author
 
-- AKASH M  
+- **AKASH M** 
 - Internship Task 4 - Binary Classification using SVM  
 - Tools: Python, scikit-learn, matplotlib, seaborn
 
